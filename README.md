@@ -29,4 +29,4 @@ Architecture: 64 Bit
 
 Credit: griffpatch And thaepicguys
 
-### WuzzlesCGS Corporation Games Studio 2022-2023****
+### WuzzlesCGS Corporation Games Studio 2022-2023
