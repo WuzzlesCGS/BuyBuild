@@ -1,32 +1,30 @@
 # BuyBuild
-### A Minecraft Clone Made By WuzzlesCGS
+### A Minecraft Clone Made With Minetest!
 
-BuyBuild Is A Video Game Made By WuzzlesCGS From Yuri Margaryan
+BuyBuild Is A Video Game Made By WuzzlesCGS Corporation Games Studio.
 
-Made In Scratch 2.0 Then Converted To Adobe Flash Then Converted To EXE
+# Minimum Requirements:
 
-### If Your Antivirus Thinks Its A Virus That's Because It Was Made In Scratch 2.0 Then Converted To Adobe Flash So That's Why
+CPU: 1.0Ghz Single/Dual/Quad Core
 
-# Minimum Requirements: 
+RAM: 500MB
 
-CPU: Intel Celeron 
+GFX: Nvidia Geforce FX5500 256MB or higher
 
-OS: Windows XP And Up
+HDD: 1GB
 
-Storage: 512 MB
+# Recommended Requirements:
 
-Architecture: 32 Bit
+CPU: Intel Core 2 Duo 1.86Ghz
 
-Recommended Requirements:
+RAM: 500MB
 
-CPU: Intel Pentium
+GFX: Nvidia Geforce 6600 256MB
 
-OS: Windows 7 And Up
+HDD: 1GB 
 
-Storage: 1GB
+Credit: celeron55 For Minetest, Uptodown For Older Versions, Redstoneplate For The Minecraft Texture Pack For Minetest.
 
-Architecture: 64 Bit
-
-Credit: griffpatch And thaepicguys
+Enjoy!
 
 ### WuzzlesCGS Corporation Games Studio 2022-2023
