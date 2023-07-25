@@ -23,7 +23,7 @@ GFX: Nvidia Geforce 6600 256MB
 
 HDD: 1GB 
 
-Credit: celeron55 For Minetest, Uptodown For Older Versions, Redstoneplate For The Minecraft Texture Pack For Minetest.
+Credit: celeron55 For Minetest, GitHub For Older Versions, Redstoneplate For The Minecraft Texture Pack For Minetest.
 
 Enjoy!
 
